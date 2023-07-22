@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Arshadali</h1>
-<h3 align="center">A passionate frontend developer from India!</h3>
+<h3 align="center">A passionate Software developer from India!</h3>
 <img align="right" ali="conding!!" width="400" src="https://thumbs.gfycat.com/AchingZestyFinnishspitz-max-1mb.gif">
 <!--  -->
 
