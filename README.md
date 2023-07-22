@@ -13,8 +13,6 @@
 - 💬 Ask me about **Java, Android, Flutter**
 
 - 📫 How to reach me **arshadalipathan15@gmail.com**
-  
-- 🔭 I’m currently working on **my Personalized Music Player Application!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
